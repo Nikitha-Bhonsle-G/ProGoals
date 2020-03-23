@@ -1,6 +1,6 @@
 import React from 'react';
 import './EmployeePage.css';
-import pro from '/reactapp/pro_goals/src/images/pro.png';
+import pro from '../images/pro.png';
 import {NavLink} from 'react-router-dom';
 
 
