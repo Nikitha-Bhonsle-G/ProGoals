@@ -1,7 +1,7 @@
 import React from 'react';
 import './AdminPage.css';
-import person from '/reactapp/pro_goals/src/images/person.png';
-import pro from '/reactapp/pro_goals/src/images/pro.png';
+import person from '../images/person.png';
+import pro from '../images/pro.png';
 import {NavLink} from 'react-router-dom';
 
 class AdminPage extends React.Component{
