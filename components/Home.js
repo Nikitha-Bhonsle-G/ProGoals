@@ -1,8 +1,8 @@
 import React from "react";
 import './Home.css';
-import pro from '/reactapp/pro_goals/src/images/pro.png';
-import admin from '/reactapp/pro_goals/src/images/admin.jpg';
-import employee from '/reactapp/pro_goals/src/images/employee.png';
+import pro from '../images/pro.png';
+import admin from '../images/admin.jpg';
+import employee from '../images/employee.png';
 import {NavLink} from 'react-router-dom';
 
 class Home extends React.Component{
